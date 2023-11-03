@@ -23,13 +23,4 @@ This tool can be hosted as a website (e.g. on github pages) but I recommend just
 
 ## Limitations
 - node icons are krangled (sorry!) due to using older javascript skill tree data (I think this could easily be fixed by pulling newer javascript from GGG but I didn't want to break anything else)
-- ascendancy input is fairly krangled but doable
-  - select class and ascendancy at bottom left
-  - may need to scroll in/out to 'reveal' the ascendancy tree pop-out
-  - replace your node as normal
-  - your ascendancy tree will disappear!
-  - refresh the page (e.g. using `F5` or `ctrl-R`)
-  - re-select your class and ascendancy at bottom left
-  - your changes will now appear
-  - this is pretty annoying but at least there aren't that many ascendancy nodes!
-
+- ascendancy input is a bit weird, you need to scroll in/out sometimes to refresh/show the nodes
